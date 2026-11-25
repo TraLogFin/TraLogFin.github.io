@@ -25,11 +25,11 @@ TraLogFin is the opposite of that. You open it, you do the thing, you get back t
 
 ## Why It Exists
 
-It started with a mistake I never wanted to repeat. While moderating several studios at Akademia, I accidentally deleted someone's ticket on a clunky system I didn't build. Nothing stopped me. Nothing let me undo it.
+It started with a mistake we never wanted to repeat. While moderating several studios at a university, one of us accidentally deleted someone's ticket on a clunky system we didn't build. Nothing stopped it. Nothing let us undo it.
 
 That burned one lesson in: **good software should protect people from the worst day they're having, not amplify it.**
 
-I've worked across film production, education, government and the events industry, and the same gaps kept showing up everywhere. So did the same kind of manager. TraLogFin is the system I wish I'd had: cleaner flows, safer patterns, and rules that are on your side.
+Between us, we've worked across film production, education, government and the events industry, and the same gaps kept showing up everywhere. So did the same kind of manager. TraLogFin is the system we wish we'd had: cleaner flows, safer patterns, and rules that are on your side.
 
 ## The Three Apps
 
@@ -73,7 +73,7 @@ Junk tickets never win. Every point a deletion creates is matched by a ghost poi
 
 ## Meet the Cast
 
-TraLogFin is tested by 18 people in two rival, fully remote companies. Every one of them is a survival strategy under pressure: exploitation, rebellion, retreat, apathy or rigid order. I based them on the drama I lived through at a very toxic company, so if one of them reminds you of someone, that's not an accident.
+TraLogFin is tested by 18 people in two rival, fully remote companies. Every one of them is a survival strategy under pressure: exploitation, rebellion, retreat, apathy or rigid order. We based them on the drama we lived through at a very toxic company, so if one of them reminds you of someone, that's not an accident.
 
 They exist to break things. Every rule has at least one character trying to bend it.
 
@@ -108,7 +108,7 @@ They exist to break things. Every rule has at least one character trying to bend
 - [x] The rules, the cast and the four-week test numbers for all three apps
 - [x] The live site, published from a tagged release
 - [ ] Accounts and saving, on the Express and MongoDB servers
-- [ ] Log a Ticket, rebuilt from my original ticketing system
+- [ ] Log a Ticket, rebuilt from our original ticketing system
 - [ ] Offline mode, so a dropped connection never loses a clock-in
 - [ ] All ten colours on every component, with smooth fades between them
 
